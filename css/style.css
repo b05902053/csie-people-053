@@ -1,0 +1,33 @@
+/* background-color is added for debug purpose */
+div.outer {
+	position: relative;
+	display: table;
+	padding: 7% 0;
+	width: 100%;
+	height: 100%;
+	/*background-color: green;*/ 
+}
+
+div.top {
+	height: 20px;
+	display: table-row;
+	/*background-color: red;*/
+}
+
+div.content {
+	text-indent: 2em;
+	display: table-cell;
+	vertical-align: middle;
+	/*background-color: orange;*/
+}
+
+
+#department_pic {
+	margin-left: auto;
+	margin-right: auto; 
+	width: 90%;
+}
+
+div.indentTwoEm {
+	text-indent: 2em;
+}
