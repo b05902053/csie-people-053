@@ -34,3 +34,7 @@ div.pic_wrapper {
 img.pic {
 	width: 50px;
 }
+
+button.btn {
+	padding: 2px;
+}
